@@ -19,6 +19,7 @@
 图像的显示: imshow
 RGB转灰度图: rgb2gray
 ```
+
 2. 不允许使用自带二值化函数，如im2bw
 
 ***
@@ -39,6 +40,7 @@ RGB转灰度图: rgb2gray
       Ibw(x,y) = I(x,y) > T ? 255: 0;
 4. 输出或者保存Ibw
 ```
+
 2. 自适应的二值化算法
 ```
 [度娘](http://www.baidu.com)
