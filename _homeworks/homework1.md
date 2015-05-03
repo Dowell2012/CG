@@ -32,7 +32,9 @@ RGB转灰度图: rgb2gray
 
 
 ### 附录
+
 1.给定阈值的二值化算法
+
 ```
 1. 将RGB转化成灰度图像I
 2. 给定阈值T
@@ -42,6 +44,7 @@ RGB转灰度图: rgb2gray
 ```
 
 2. 自适应的二值化算法
+
 ```
 [度娘](http://www.baidu.com)
 [谷哥](http://www.google.com)
