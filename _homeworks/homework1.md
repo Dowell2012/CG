@@ -1,4 +1,4 @@
-## 图像的二值化：(实现平台自由，下面仅给出Matlab和OpenCV)
+### 图像的二值化：(实现平台自由，下面仅给出Matlab和OpenCV，选择一种就可以)
 
 ***
 
@@ -28,7 +28,7 @@ RGB转灰度图: rgb2gray
 
 ***
 
-### OpenCV: 实现图像的二值化算法
+### 2.OpenCV: 实现图像的二值化算法
 * **目的：同上**
 * **要求：**
 ```
@@ -53,3 +53,5 @@ RGB转灰度图: rgb2gray
 [度娘](http://www.baidu.com)
 [谷哥](http://www.google.com)
 ```
+
+* 打包压缩并邮件到xindongzhang@outlook.com，格式参考课程主页。
