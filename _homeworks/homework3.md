@@ -7,5 +7,5 @@
 ```
 
 ### 附录
-[off文件格式](http://shape.cs.princeton.edu/benchmark/documentation/off_format.html)
-[obj文件格式](http://baike.baidu.com/link?url=JvG6zDWxU7g0z-lZTtZw8atu1Yn3myTrvMUSIXklrErsSAJeobq1n81WsFj4MR1IjqHUShfC1LDTQLm7MJHkFPwEitM_D0JwVAODce1j9GW)
+* [off文件格式](http://shape.cs.princeton.edu/benchmark/documentation/off_format.html)
+* [obj文件格式](http://baike.baidu.com/link?url=JvG6zDWxU7g0z-lZTtZw8atu1Yn3myTrvMUSIXklrErsSAJeobq1n81WsFj4MR1IjqHUShfC1LDTQLm7MJHkFPwEitM_D0JwVAODce1j9GW)
